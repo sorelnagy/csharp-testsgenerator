@@ -1,0 +1,11 @@
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\bin\Debug\MySql.Data.dll
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\bin\Debug\MySql.Data.xml
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Form1.resources
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.Cache
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+c:\users\nagyp\documents\visual studio 2015\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
